@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(68): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(83): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(90): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nicollet njora\source\repos\2dhouse\2dhouse\main.cpp(133): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2DHouse.vcxproj -> C:\Users\Nicollet Njora\source\repos\2DHouse\Debug\2DHouse.exe
